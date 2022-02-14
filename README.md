@@ -1,3 +1,3 @@
 # Gulp
 PersonalBlog with gulp
-write gulp to run
+write gulp to start
